@@ -41,9 +41,9 @@ pip install websocket-client pyaudio pygame
 修改代码中的认证信息（示例在左上角）：
 
 ```python
-APPID = "8e738b41"
-APIKEY = "a97ad5f0578fbc3808e1afa7f8fb7446"
-APISECRET = "M2QwMWFjNGI3NTQxMjc5ZGNiNDVlNGQ0"
+APPID = ""
+APIKEY = ""
+APISECRET = ""
 ```
 
 ## 🎯 使用指南
