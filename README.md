@@ -124,6 +124,3 @@ python asr.py
 ## 📄 许可证
 
 MIT License
-```
-
-可直接复制保存为 `README.md` 上传到 GitHub。
